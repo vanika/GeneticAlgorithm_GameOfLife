@@ -18,7 +18,7 @@ The genetic algorithm is used to select configurations that produce this behavio
 * *Patterns in the board remains equal during the game*
 
 
-# Fitness function and evolutionary optimization
+# Fitness function and evolutionary strategy
 
 The fitness function is a crucial part of a genetic algoritm.Here it will rewards configurations based on the meeting on the aforementioned goals.
 
