@@ -10,7 +10,7 @@ typedef struct s{
     CellMap *citizen;
     struct s *next;
 }list;
-
+//
 typedef struct c{
     CellMap *citizen;
     int score;
