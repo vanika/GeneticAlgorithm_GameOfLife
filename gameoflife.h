@@ -3,10 +3,6 @@
 #include <ctime>
 #include <cstring>
 
-int main(){
-    return 0;
-}
-
 class CellMap
 {
 public:
